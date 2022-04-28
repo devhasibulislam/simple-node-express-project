@@ -1,0 +1,19 @@
+.card-item {
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.card-number {
+    margin: 0;
+    font-size: 100px;
+    color: rgb(224, 225, 226);
+    margin-right: 10%;
+}
+
+.desc-initiate {
+    font-weight: bold;
+}
